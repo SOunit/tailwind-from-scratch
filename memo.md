@@ -43,5 +43,10 @@
   - can just fix quickly inside browser.
 
 - downside
+
   - too many classes
     - can create custom classes
+
+- tailwind cdn
+  - not recommended for production
+  - ok for development
