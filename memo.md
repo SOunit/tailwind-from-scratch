@@ -1,3 +1,9 @@
+# point
+
+- flex property
+
+# memo
+
 - what is tailwind?
 
   - utility first framework
