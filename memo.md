@@ -2,6 +2,9 @@
 
 - flex property
 - grid
+- use `tailwindcss` version 3
+  - to run `npx tailwindcss init`
+  - this command fails in v4...
 
 # memo
 
