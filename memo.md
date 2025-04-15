@@ -6,7 +6,7 @@
   - to run `npx tailwindcss init`
   - this command fails in v4...
 
-# sample repo
+# resources
 
 - https://github.com/bradtraversy/tailwind-course-projects
 
