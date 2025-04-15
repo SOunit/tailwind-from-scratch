@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("console.log('hello world');\r\n\n\n//# sourceURL=webpack://webpack-tailwind-starter/./src/index.js?");
+eval("console.log('Hello World');\r\n\n\n//# sourceURL=webpack://webpack-tailwind-starter/./src/index.js?");
 
 /***/ })
 
