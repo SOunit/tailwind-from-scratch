@@ -6,6 +6,10 @@
   - to run `npx tailwindcss init`
   - this command fails in v4...
 
+# sample repo
+
+- https://github.com/bradtraversy/tailwind-course-projects
+
 # memo
 
 - what is tailwind?
